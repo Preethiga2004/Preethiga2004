@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preethiga2004" alt="preethiga2004" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Python,c**
+- 💬 Ask me about **Java,C**
 
 - 📫 How to reach me **preethigam2004@gmail.com**
 
